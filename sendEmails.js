@@ -7,6 +7,7 @@ const YOUR_APP_PASSWORD = ""; // 16-digit App Password
 const GROQ_API_KEY = "Enter_Your_Groq_API_Key_Here"; // From console.groq.com
 const recipients = [
 
+ { name: "", email: "", company: "", role: "", isAlumni: "" },
 
 ];
 
